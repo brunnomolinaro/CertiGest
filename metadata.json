@@ -1,5 +1,5 @@
 {
-  "name": "Copy of CertiGest - Gestão de Certidões Fiscais",
+  "name": "certigest",
   "description": "Sistema centralizado para gestão de carteira de empresas e emissão de certidões fiscais com automação de fluxo de trabalho.",
   "requestFramePermissions": []
 }
